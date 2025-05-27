@@ -93,7 +93,7 @@ O dashboard oferece as seguintes visualizações e análises:
 ## Estrutura de Arquivos Essenciais
 
 ```
-NOME_DO_REPOSITORIO/
+QualiÁGUA
 │
 ├── app.py                     # Arquivo principal da aplicação Flask (backend)
 ├── dados_sisagua_limpos.csv   # Arquivo CSV com os dados das amostras
