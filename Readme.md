@@ -6,6 +6,14 @@ Este projeto consiste em um dashboard web interativo desenvolvido para visualiza
 
 O backend é construído com Flask (Python) e utiliza Pandas e Geopandas para manipulação e análise dos dados. O frontend é renderizado com HTML, CSS (Bootstrap) e JavaScript, utilizando Plotly.js para a geração de gráficos interativos e Folium para a criação de mapas.
 
+#Nome do Projeto e Integrantes do Grupo
+#Integrantes:
+- Bianca Santos
+- Fernando Melo
+- Igor Santos
+- Raquel Moura
+- Vinicius Santos
+
 ## Funcionalidades Implementadas
 
 O dashboard oferece as seguintes visualizações e análises:
@@ -93,7 +101,7 @@ O dashboard oferece as seguintes visualizações e análises:
 ## Estrutura de Arquivos Essenciais
 
 ```
-QualiÁGUA
+QualiÁgua
 │
 ├── app.py                     # Arquivo principal da aplicação Flask (backend)
 ├── dados_sisagua_limpos.csv   # Arquivo CSV com os dados das amostras
